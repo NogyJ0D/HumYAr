@@ -1,0 +1,15 @@
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.vbproj.AssemblyReference.cache
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.vbproj.SuggestedBindingRedirects.cache
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.FormEditar.resources
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.FormLeer.resources
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.FormLogin.resources
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.Resources.resources
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.vbproj.GenerateResource.cache
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.vbproj.CoreCompileInputs.cache
+C:\Proyectos\HumYAr\bin\Debug\HumYAr.exe.config
+C:\Proyectos\HumYAr\bin\Debug\HumYAr.exe
+C:\Proyectos\HumYAr\bin\Debug\HumYAr.pdb
+C:\Proyectos\HumYAr\bin\Debug\HumYAr.xml
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.exe
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.xml
+C:\Proyectos\HumYAr\obj\Debug\HumYAr.pdb
